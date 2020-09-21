@@ -1,3 +1,3 @@
 #Lista pavulona dla pfblockerng
 
-0.0.0.0 cda.pl
+cda.pl
